@@ -9,14 +9,11 @@ This web application is a basic Node.js server using the Express framework. It's
 **Features:**
 - A single endpoint (`GET /`) that responds with a welcome message.
 - Jest integrated for running unit tests.
-- Dockerization for containerization.
-- A basic CI setup.
 
 ## Prerequisites
 
 - Node.js
 - npm
-- Docker (for Dockerization)
 
 ## How to Run Locally
 
